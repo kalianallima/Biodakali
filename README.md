@@ -1,9 +1,26 @@
-<div align="center">
-Kaliana Costa <br>
-Quem eu sou!</div>
-👋 Olá! Sou estudante de Análise e Desenvolvimento de Sistemas. <br>
-👩‍💻 Também faço parte do projeto Conectando Mulheres, focado em Desenvolvimento de Sistemas e sala de aula 100% feminina.<br>
-🛠️ Venho da área de Atendimento Técnico, onde desenvolvi uma base sólida em resolução de problemas, suporte ao usuário e consulta de banco de dados de logs para diagnóstico de sistemas.<br>
-💻 Atualmente, aprimoro minhas habilidades técnicas em desenvolvimento web utilizando HTML e CSS.<br>
-👥 Sou formada em Gestão de Recursos Humanos, trazendo facilidade com comunicação, trabalho em equipe e metodologias ágeis.<br>
-🚀 Buscando evoluir constantemente em Desenvolvimento de software e IA.<br>
+# Olá, eu sou a Kaliana Costa! 👋
+
+### 👩‍💻 Sobre Mim
+* **Estudante de Análise e Desenvolvimento de Sistemas** com foco em evolução constante em engenharia de sistemas.
+* **Integrante do projeto Conectando Mulheres**, focado em Desenvolvimento de Sistemas dentro de uma comunidade e sala de aula 100% feminina.
+* **Transição de Carreira:** Formada em **Gestão de Recursos Humanos**, trazendo facilidade com comunicação, trabalho em equipe e metodologias ágeis.
+
+---
+
+### 🛠️ Experiência e Habilidades Técnicas
+* **Atendimento Técnico:** Base sólida em resolução de problemas complexos e suporte ao usuário. Análise e **consulta de banco de dados de logs**.
+* **Desenvolvimento Web:** Aprimorando habilidades práticas em **HTML5** e **CSS3**.
+
+---
+
+### 🚀 Tecnologias e Ferramentas
+🎨 **Front-End:** HTML5 | CSS3
+📊 **Dados/Suporte:** Consulta de Logs | Banco de Dados
+👥 **Soft Skills:** Gestão de Pessoas | Comunicação | Metodologias Ágeis |
+
+---
+
+📫 **Como me encontrar:**
+* LinkedIn: [kalianallima](https://www.linkedin.com/in/kalianallima/))
+* Email: kalianallima@gmail.com
+
