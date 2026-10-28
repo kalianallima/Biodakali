@@ -14,14 +14,24 @@
 ---
 
 ### 🚀 Tecnologias e Ferramentas
-🎨 **Front-End:** HTML5 | CSS3 | UX/UX <br>
-📊 **Dados & Observabilidade:** Chronos Elastic | Metabase | Consulta de Logs<br>
-🛠️ **Gestão de Suporte & Projetos:** Jira | Zendesk<br>
-👥 **Soft Skills:** Gestão de Pessoas | Comunicação | Metodologias Ágeis | Trabalho em Equipe<br>
+
+🎨 **Front-End**
+![HTML5](https://shields.io) ![CSS3](https://shields.io)
+
+🛠️ **Ferramentas & Observabilidade**
+![Jira](https://shields.io) ![Zendesk](https://shields.io) ![Elasticsearch](https://shields.io)
+
+⚙️ **Metodologias Ágeis**
+`Scrum` | `Kanban` | `Kaizen` | `Lean`
+
+👥 **Soft Skills**
+`Gestão de Pessoas` | `Comunicação` | `Trabalho em Equipe` | `Resolução de Problemas`
 
 ---
 
-📫 **Como me encontrar:**
-* LinkedIn: [kalianallima](https://www.linkedin.com/in/kalianallima/)
-* Email: kalianallima@gmail.com
+### 📫 Contato
+
+[![LinkedIn]([kalianallima](https://www.linkedin.com/in/kalianallima/))
+[![Email](mailto:kalianallima@gmail.com)
+Use o código com cuidado.
 
