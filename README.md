@@ -14,9 +14,10 @@
 ---
 
 ### 🚀 Tecnologias e Ferramentas
-🎨 **Front-End:** HTML5 | CSS3
-📊 **Dados/Suporte:** Consulta de Logs | Banco de Dados
-👥 **Soft Skills:** Gestão de Pessoas | Comunicação | Metodologias Ágeis |
+🎨 **Front-End:** HTML5 | CSS3 | UX/UX
+📊 **Dados & Observabilidade:** Chronos Elastic | Metabase | Consulta de Logs
+🛠️ **Gestão de Suporte & Projetos:** Jira | Zendesk
+👥 **Soft Skills:** Gestão de Pessoas | Comunicação | Metodologias Ágeis | Trabalho em Equipe
 
 ---
 
