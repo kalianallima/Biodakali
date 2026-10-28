@@ -1,4 +1,4 @@
-# Olá, eu sou a Kaliana Costa! 👋
+# Olá, eu sou Kaliana Costa! 👋
 
 ### 👩‍💻 Sobre Mim
 * **Estudante de Análise e Desenvolvimento de Sistemas** com foco em evolução constante em engenharia de sistemas.
