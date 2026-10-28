@@ -3,7 +3,7 @@
 ### 👩‍💻 Sobre Mim
 * **Estudante de Análise e Desenvolvimento de Sistemas** com foco em evolução constante em engenharia de sistemas.
 * **Integrante do projeto Conectando Mulheres**, focado em Desenvolvimento de Sistemas e sala de aula 100% feminina.
-* **Formada em **Gestão de Recursos Humanos**, trazendo facilidade com comunicação, Gestão de pessoas e metodologias ágeis.
+* Formada em **Gestão de Recursos Humanos**, trazendo facilidade com comunicação, Gestão de pessoas e metodologias ágeis.
 
 ---
 
