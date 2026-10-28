@@ -9,7 +9,7 @@
 
 ### 🛠️ Experiência e Habilidades Técnicas
 * **Atendimento Técnico:** Base sólida em resolução de problemas complexos e suporte ao usuário. Análise e **consulta de banco de dados de logs**.
-* **Desenvolvimento Web:** Aprimorando habilidades práticas em **HTML5** e **CSS3**.
+* **Desenvolvimento Web:** Aprimorando habilidades práticas em **HTML5**, **CSS3**, **Lógica de Programação** e **metodologias ágeis**.
 
 ---
 
